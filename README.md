@@ -17,7 +17,12 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Introduction about cybersecurity | Applications in Linux  | Be anonymous & introduction about networks  | Programming in cybersecurity & important tools in pentesting | Metasploit framework & Pentesting websites |
 
+# Workshops progress 
 
-
+- [x] Sunday
+- [ ] Monday
+- [ ] Tuesday 
+- [ ] Wednesday
+- [ ] Thursday
 
 Feel free to contact us via our twitter account or email 💌
