@@ -1,4 +1,4 @@
-#Welcome to day 1 workshop 
+# Welcome to day 1 workshop 
 here you will find all the commands used in day one 
 
 ### Controlling files and folders
