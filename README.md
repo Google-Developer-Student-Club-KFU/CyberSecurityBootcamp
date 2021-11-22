@@ -26,4 +26,5 @@
 - [ ] Thursday
 
 Feel free to contact us via our twitter account 💌
+
 Twitter : @GDSCKFU
