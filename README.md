@@ -20,7 +20,7 @@
 # Workshops progress 
 
 - [x] Sunday
-- [ ] Monday
+- [x] Monday
 - [ ] Tuesday 
 - [ ] Wednesday
 - [ ] Thursday
