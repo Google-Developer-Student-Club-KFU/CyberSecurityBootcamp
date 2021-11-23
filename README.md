@@ -28,3 +28,4 @@
 Feel free to contact us via our twitter account 💌
 
 Twitter : @GDSCKFU
+Google Community : https://gdsc.community.dev/king-faisal-university-m/
