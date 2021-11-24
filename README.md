@@ -27,8 +27,7 @@
 
 Feel free to contact us via our twitter account 💌
 
-Twitter : @GDSCKFU
-
+Twitter : https://twitter.com/GDSCKFU
 
 Google Community : https://gdsc.community.dev/king-faisal-university-m/
 
