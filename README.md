@@ -25,7 +25,7 @@
 - [x] Wednesday
 - [ ] Thursday
 
-Feel free to contact us via our twitter account 💌
+Feel free to contact us via 💌
 
 Twitter : https://twitter.com/GDSCKFU
 
