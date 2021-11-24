@@ -21,8 +21,8 @@
 
 - [x] Sunday
 - [x] Monday
-- [ ] Tuesday 
-- [ ] Wednesday
+- [x] Tuesday 
+- [x] Wednesday
 - [ ] Thursday
 
 Feel free to contact us via our twitter account 💌
