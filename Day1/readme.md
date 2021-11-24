@@ -12,8 +12,8 @@ cp | stands for copy
 mv | stands for move and to rename file or directory 
 cd | change directory 
 cat | showing files content 
-head | showing the first 11 lines in the file 
-tail | showing the last 11 lines in the file 
+head | showing the first 10 lines in the file 
+tail | showing the last 10 lines in the file 
 more | to show more contect in the file 
 pwd | print working directory 
 touch | to create new file 
