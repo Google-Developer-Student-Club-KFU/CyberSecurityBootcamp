@@ -31,4 +31,3 @@ Twitter : https://twitter.com/GDSCKFU
 
 Google Community : https://gdsc.community.dev/king-faisal-university-m/
 
-Discord Server : https://discord.gg/JWkMqDMjm3
